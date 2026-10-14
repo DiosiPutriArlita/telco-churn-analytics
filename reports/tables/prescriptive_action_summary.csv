@@ -1,0 +1,6 @@
+recommended_action,customers,avg_churn_probability,avg_monthly_charges,expected_net_benefit
+Bundel dukungan teknis dan keamanan gratis 3 bulan,249,0.6497812151524319,86.38915662650604,16286.94976792613
+Insentif upgrade ke kontrak 1 tahun,18,0.5006776524386578,97.93055555555556,995.2303290477915
+Program onboarding dan diskon untuk kontrak 12 bulan,10,0.6167504831207173,95.27000000000001,698.1581365709621
+Insentif pindah ke pembayaran otomatis,3,0.4725093542149159,101.83333333333333,162.90809762566852
+Panggilan retensi oleh tim layanan pelanggan,1,0.48220776406124044,94.05,50.30636190234192

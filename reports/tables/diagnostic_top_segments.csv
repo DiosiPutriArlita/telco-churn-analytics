@@ -1,0 +1,16 @@
+features,segment,customers,churned,churn_rate,lift
+InternetService x tenure_band,Fiber optic | 0-12,923,645,0.6988082340195017,2.6333367534506955
+PaymentMethod x tenure_band,Electronic check | 0-12,978,606,0.6196319018404908,2.3349745771335346
+tenure_band x PaperlessBilling,0-12 | Yes,1286,739,0.5746500777604977,2.1654684310685846
+Contract x InternetService,Month-to-month | Fiber optic,2128,1162,0.5460526315789473,2.057703950888457
+Contract x PaymentMethod,Month-to-month | Electronic check,1850,994,0.5372972972972972,2.024711003137969
+InternetService x PaymentMethod,Fiber optic | Electronic check,1595,849,0.5322884012539185,2.0058358534143115
+Contract x tenure_band,Month-to-month | 0-12,1994,1024,0.5135406218655968,1.935188121883038
+PaymentMethod x TechSupport,Electronic check | No,1852,935,0.5048596112311015,1.9024752498130804
+PaymentMethod x PaperlessBilling,Electronic check | Yes,1742,867,0.49770378874856486,1.8755097828550786
+InternetService x TechSupport,Fiber optic | No,2230,1101,0.49372197309417043,1.8605050061542225
+tenure_band x TechSupport,0-12 | No,1903,930,0.488702049395691,1.8415883006387648
+InternetService x tenure_band,Fiber optic | 13-24,449,219,0.48775055679287305,1.838002766983523
+PaymentMethod x tenure_band,Electronic check | 13-24,380,184,0.4842105263157895,1.8246627805468727
+Contract x PaperlessBilling,Month-to-month | Yes,2586,1249,0.48298530549110597,1.8200457499057565
+Contract x TechSupport,Month-to-month | No,3204,1449,0.45224719101123595,1.7042145352017841

@@ -1,0 +1,7 @@
+strategy,customers_contacted,realised_net_benefit,churners_reached
+tanpa kampanye,0,0.0,0.0
+hubungi semua pelanggan,1409,18054.456,374.0
+acak (ukuran sama),281,3581.2402080000006,74.458
+top probabilitas churn,281,17188.656000000003,187.0
+top expected net benefit (dengan anggaran),281,17872.224000000002,178.0
+semua expected benefit positif (tanpa anggaran),726,24667.127999999997,321.0

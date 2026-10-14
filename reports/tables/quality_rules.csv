@@ -1,0 +1,9 @@
+rule,violations,share
+TotalCharges kosong,11,0.001561834445548772
+TotalCharges kosong dan tenure = 0,11,0.001561834445548772
+TotalCharges kosong dan tenure > 0,0,0.0
+tenure di luar 0-72,0,0.0
+MonthlyCharges <= 0,0,0.0
+TotalCharges < MonthlyCharges (tenure > 0),0,0.0
+Layanan tambahan aktif tanpa internet,0,0.0
+MultipleLines aktif tanpa PhoneService,0,0.0
