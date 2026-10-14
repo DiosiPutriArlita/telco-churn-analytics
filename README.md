@@ -1,4 +1,4 @@
-# Telco Customer Churn: dari Descriptive sampai Prescriptive Analytics
+# Sesi 1- Telco Customer Churn: dari Descriptive sampai Prescriptive Analytics
 
 Studi kasus analitik end-to-end pada dataset publik **Telco Customer Churn (IBM, ±7.000 pelanggan)**.
 Pertanyaan bisnis: *pelanggan mana yang kemungkinan berhenti berlangganan, mengapa, dan tindakan retensi apa yang layak dilakukan dengan anggaran terbatas?*
