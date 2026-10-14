@@ -1,8 +1,7 @@
 # Sesi 1- Telco Customer Churn: dari Descriptive sampai Prescriptive Analytics
 
-| | |
-|---|---|
 | **Nama** | Diosi Putri Arlita |
+|---|---|
 | **NPM** | G1A023012 |
 
 Studi kasus analitik end-to-end pada dataset publik **Telco Customer Churn (IBM, ±7.000 pelanggan)**.
