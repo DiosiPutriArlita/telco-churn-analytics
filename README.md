@@ -1,4 +1,4 @@
-# Studi Kasus Sesi 1- Telco Customer Churn: dari Descriptive sampai Prescriptive Analytics
+# Studi Kasus Sesi 1 - Telco Customer Churn: dari Descriptive sampai Prescriptive Analytics
 
 | **Nama** | Diosi Putri Arlita |
 |---|---|
